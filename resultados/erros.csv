@@ -1,0 +1,13 @@
+texto,real,previsto,probabilidade
+"Ficou lindo na sala, combinou perfeitamente com os móveis",positivo,negativo,0.5234
+O sabor é maravilhoso e as porções são generosas,positivo,negativo,0.6103
+"Panela de péssima qualidade, a comida gruda e queima",negativo,positivo,0.6653
+"Ambiente sujo e desorganizado, fui mal recebido",negativo,positivo,0.5249
+"A série perdeu a graça, enrolação do começo ao fim",negativo,positivo,0.5629
+"Ficou feio na sala, a cor é bem diferente da foto",negativo,positivo,0.5519
+"Pesado e desajeitado, difícil de carregar no dia a dia",negativo,positivo,0.6569
+A loja é confiável e o suporte respondeu rapidinho,positivo,negativo,0.6404
+"Aula dinâmica e interessante, aprendi muito em pouco tempo",positivo,negativo,0.635
+"Cheguei animado, mas me arrependi, tudo estava sujo",negativo,positivo,0.6748
+"Esperava mais, a qualidade é bem inferior ao que prometeram",negativo,positivo,0.6306
+Camiseta encolheu e desbotou depois da primeira lavagem,negativo,positivo,0.5886
